@@ -1,0 +1,15 @@
+/.gradle
+/.idea
+/out
+/build
+*.iml
+*.ipr
+*.iws
+
+resources/application.conf
+
+http-client.env.json
+
+test.http
+
+Test Results - All_in_test.html
